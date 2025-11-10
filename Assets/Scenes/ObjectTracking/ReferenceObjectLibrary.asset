@@ -25,3 +25,8 @@ MonoBehaviour:
     m_Name: Cube
     m_Entries:
     - {fileID: 11400000, guid: 124f01f93d53b4964a2d0b5319c54392, type: 3}
+  - m_GuidLow: 5472277111449860004
+    m_GuidHigh: 8493122045803243154
+    m_Name: Raptor3
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 258758adda8c3d6439eb04c6439a1c97, type: 3}
