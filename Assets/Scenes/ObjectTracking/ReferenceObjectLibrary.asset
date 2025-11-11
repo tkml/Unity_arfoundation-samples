@@ -30,3 +30,8 @@ MonoBehaviour:
     m_Name: Raptor3
     m_Entries:
     - {fileID: -6831329414088302235, guid: 258758adda8c3d6439eb04c6439a1c97, type: 3}
+  - m_GuidLow: 4870331015575404124
+    m_GuidHigh: 3906374873656080562
+    m_Name: KOOMarker
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 258758adda8c3d6439eb04c6439a1c97, type: 3}
